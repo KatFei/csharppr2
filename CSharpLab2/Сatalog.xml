@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<ArrayOfSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Source xsi:type="Book">
+    <Author>Chernyak V.Z.</Author>
+    <Title>History of Entrepreneurship: A Textbook for High Schools</Title>
+    <YearOfPubl>2009</YearOfPubl>
+    <Publisher>M .: Unity-Dana</Publisher>
+  </Source>
+  <Source xsi:type="Book">
+    <Author>Sergeev I.V.</Author>
+    <Title>Enterprise Economics: A Training Manual</Title>
+    <YearOfPubl>2002</YearOfPubl>
+    <Publisher>M .: Finance and statistics</Publisher>
+  </Source>
+  <Source xsi:type="Book">
+    <Author>Lynx Yu.I.</Author>
+    <Title>Sociology: textbook. manual for universities</Title>
+    <YearOfPubl>1999</YearOfPubl>
+    <Publisher>M .: Academic project</Publisher>
+  </Source>
+  <Source xsi:type="Book">
+    <Author>Litvinov N.D.</Author>
+    <Title>Caucasus, faraway country</Title>
+    <YearOfPubl>2006</YearOfPubl>
+    <Publisher>Voronezh</Publisher>
+  </Source>
+  <Source xsi:type="Book">
+    <Author>Kibanov A.Ya.</Author>
+    <Title>Personnel management: labor regulation: textbook. manual for universities</Title>
+    <YearOfPubl>2000</YearOfPubl>
+    <Publisher>M .: Exam</Publisher>
+  </Source>
+  <Source xsi:type="Book">
+    <Author>Bagiev G.L. </Author>
+    <Title>International Marketing: A Textbook for High Schools</Title>
+    <YearOfPubl>2008</YearOfPubl>
+    <Publisher>SPb .: Peter</Publisher>
+  </Source>
+  <Source xsi:type="Book">
+    <Author>T.G. Morozova</Author>
+    <Title>Regional Economics: A Textbook</Title>
+    <YearOfPubl>2000</YearOfPubl>
+    <Publisher>M .: UNITY</Publisher>
+  </Source>
+  <Source xsi:type="Book">
+    <Author>Z.D. Babaeva</Author>
+    <Title>Accounting of financial and economic activities of the organization: methodology, tasks, situations, tests</Title>
+    <YearOfPubl>2005</YearOfPubl>
+    <Publisher>M .: Finance and statistics</Publisher>
+  </Source>
+  <Source xsi:type="Paper">
+    <Author>Lushin S.I. </Author>
+    <Title>On monetary reforms in Russia</Title>
+    <Magazine>Finance</Magazine>
+    <MagazineNo>5</MagazineNo>
+    <YearOfPubl>2000</YearOfPubl>
+  </Source>
+  <Source xsi:type="Paper">
+    <Author>Korshunova N.E. </Author>
+    <Title>Social Management</Title>
+    <Magazine>Management in Russia and abroad</Magazine>
+    <MagazineNo>6</MagazineNo>
+    <YearOfPubl>2007</YearOfPubl>
+  </Source>
+  <Source xsi:type="Paper">
+    <Author>Lezhenin V.N.</Author>
+    <Title>The development of the provisions of Roman private law in the Russian civil law</Title>
+    <Magazine>Voronezh-state. un</Magazine>
+    <MagazineNo>11</MagazineNo>
+    <YearOfPubl>2000</YearOfPubl>
+  </Source>
+  <Source xsi:type="Paper">
+    <Author>Belova G.D.</Author>
+    <Title>Some issues of criminal liability for violation of tax legislation </Title>
+    <Magazine>Actual. problems prosecutor supervision</Magazine>
+    <MagazineNo>5</MagazineNo>
+    <YearOfPubl>2001</YearOfPubl>
+  </Source>
+  <Source xsi:type="EResources">
+    <Author>Kerimov V.E.</Author>
+    <Title>Financial leverage as an effective tool for managing the financial activities of an enterprise</Title>
+    <Reference>http://www.cfin.ru/press/managment/</Reference>
+    <Annotation>Management in Russia and abroad</Annotation>
+  </Source>
+  <Source xsi:type="EResources">
+    <Author>Wesley Patterson Garrigus</Author>
+    <Title>Poultry farming</Title>
+    <Reference>https://www.britannica.com/topic/poultry-farming</Reference>
+    <Annotation>ENCYCLOPEDIA BRITANNICA [Electronic resource]</Annotation>
+  </Source>
+  <Source xsi:type="EResources">
+    <Author>Currency control</Author>
+    <Title>Banca Intesa</Title>
+    <Reference>https://www.bancaintesa.ru/en/businesses/curr-control/</Reference>
+    <Annotation>Intesa Sanpaolo Group</Annotation>
+  </Source>
+</ArrayOfSource>

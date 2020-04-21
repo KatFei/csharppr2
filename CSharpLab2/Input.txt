@@ -1,0 +1,95 @@
+15
+Book
+Chernyak V.Z.
+History of Entrepreneurship: A Textbook for High Schools
+M .: Unity-Dana
+2009
+;
+Book
+Sergeev I.V.
+Enterprise Economics: A Training Manual
+M .: Finance and statistics
+2002
+;
+Book
+Lynx Yu.I.
+Sociology: textbook. manual for universities
+M .: Academic project
+1999
+;
+Book
+Litvinov N.D.
+Caucasus, faraway country
+Voronezh
+2006
+;
+Book
+Kibanov A.Ya.
+Personnel management: labor regulation: textbook. manual for universities
+M .: Exam
+2000
+;
+Book
+Bagiev G.L. 
+International Marketing: A Textbook for High Schools
+SPb .: Peter
+2008
+;
+Book
+T.G. Morozova
+Regional Economics: A Textbook
+M .: UNITY
+2000
+;
+Book
+Z.D. Babaeva
+Accounting of financial and economic activities of the organization: methodology, tasks, situations, tests
+M .: Finance and statistics
+2005
+;
+Paper
+Lushin S.I. 
+On monetary reforms in Russia
+Finance
+2000
+5
+;
+Paper
+Korshunova N.E. 
+Social Management
+Management in Russia and abroad
+2007
+6
+;
+Paper
+Lezhenin V.N.
+The development of the provisions of Roman private law in the Russian civil law
+Voronezh-state. un
+2000
+11
+;
+Paper
+Belova G.D.
+Some issues of criminal liability for violation of tax legislation 
+Actual. problems prosecutor supervision
+2001
+5
+;
+EResources
+Kerimov V.E.
+Financial leverage as an effective tool for managing the financial activities of an enterprise
+http://www.cfin.ru/press/managment/
+Management in Russia and abroad
+;
+EResources
+Wesley Patterson Garrigus
+Poultry farming
+https://www.britannica.com/topic/poultry-farming
+ENCYCLOPEDIA BRITANNICA [Electronic resource]
+;
+EResources
+Currency control
+Banca Intesa
+https://www.bancaintesa.ru/en/businesses/curr-control/
+Intesa Sanpaolo Group
+;
